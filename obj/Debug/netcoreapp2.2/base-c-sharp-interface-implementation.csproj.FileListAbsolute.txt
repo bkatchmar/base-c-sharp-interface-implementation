@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\bin\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.deps.json
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\bin\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.runtimeconfig.json
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\bin\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.runtimeconfig.dev.json
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\bin\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.dll
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\bin\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.pdb
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\obj\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.csprojAssemblyReference.cache
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\obj\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\obj\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\obj\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.AssemblyInfo.cs
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\obj\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.dll
+C:\Users\brian\Documents\Code\CSharp\base-c-sharp-interface-implementation\obj\Debug\netcoreapp2.2\base-c-sharp-interface-implementation.pdb

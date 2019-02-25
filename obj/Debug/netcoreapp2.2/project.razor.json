@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\brian\\Documents\\Code\\CSharp\\base-c-sharp-interface-implementation\\base-c-sharp-interface-implementation.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
